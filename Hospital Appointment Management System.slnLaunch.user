@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Hospital Appointment Management System\\HospitalAppointmentBackend.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "HospitalMangmentFrontend\\HospitalMangmentFrontend.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

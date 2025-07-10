@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ajBjoov8ewH4LRFL++6cxbRUn7qoUEneOdyijhpsdIA=",
+  "Source": "HospitalAppointmentBackend",
+  "BasePath": "_content/HospitalAppointmentBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

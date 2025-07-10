@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\Add New Doctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DoctorDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SearchDoctors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\PatientDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Profile Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Set Availability.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
